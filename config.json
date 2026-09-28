@@ -9,7 +9,7 @@
       "idfweb.targets.default": "esp32c6",
       "idfweb.examples.idf.include": ["get-started"],
       "idfweb.examples.bundled.offered": false,
-      "idfweb.welcome.folders": false
+      "idfweb.welcome.folders": true
     }
   }
 }
