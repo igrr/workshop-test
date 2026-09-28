@@ -2,14 +2,13 @@
   "title": "ESP32-C6 Workshop",
   "welcome": "welcome.md",
   "examples": "Workshop examples",
-  "defaultExample": "hello",
   "settings": {
     "fixed": {
       "idfweb.targets.visible": ["esp32c6"],
       "idfweb.targets.default": "esp32c6",
       "idfweb.examples.idf.include": ["get-started"],
       "idfweb.examples.bundled.offered": false,
-      "idfweb.welcome.folders": true
+      "idfweb.welcome.folders": false
     }
   }
 }
